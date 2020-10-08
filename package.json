@@ -1,0 +1,17 @@
+{
+  "name": "1013oct7",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MrEverymorning/1013oct7.git",
+  "author": "MrEverymorning <60137767+MrEverymorning@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.10.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.21.3",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
